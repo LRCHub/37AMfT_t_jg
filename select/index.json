@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "torso",
+  "base_artist": "平葵",
+  "createdAt": "2026-02-14T15:41:00.158105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Bone Torso",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/01_Black_Bone_Torso_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Torso Of The Week",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/02_Torso_Of_The_Week_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Torso",
+      "artist": "His Name Is Alive",
+      "has_synced": false,
+      "path": "select/03_The_Torso_His_Name_Is_Alive.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Is It ’Cos I’m Cool? (Torso Gets Cool remix)",
+      "artist": "Mousse T. feat. Emma Lanford",
+      "has_synced": false,
+      "path": "select/04_Is_It_’Cos_I’m_Cool__(Torso_Gets_Cool_remix)_Mousse_T._feat._Emma_Lanford.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TV Torso",
+      "artist": "Sound Team",
+      "has_synced": false,
+      "path": "select/05_TV_Torso_Sound_Team.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Torso",
+      "artist": "Grouplove",
+      "has_synced": true,
+      "path": "select/06_Torso_Grouplove.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Mujer Torso y el Hombre de la Cola de Ameba",
+      "artist": "Fito Paez",
+      "has_synced": true,
+      "path": "select/07_La_Mujer_Torso_y_el_Hombre_de_la_Cola_de_Ameba_Fito_Paez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Torso",
+      "artist": "Nascar Aloe",
+      "has_synced": false,
+      "path": "select/08_Torso_Nascar_Aloe.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Torso Was Severed in Mid Thorax",
+      "artist": "Meet Me In St. Louis",
+      "has_synced": true,
+      "path": "select/09_The_Torso_Was_Severed_in_Mid_Thorax_Meet_Me_In_St._Louis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Torso Was Severed In Mid Thorax",
+      "artist": "Meet Me In St Louis",
+      "has_synced": true,
+      "path": "select/10_The_Torso_Was_Severed_In_Mid_Thorax_Meet_Me_In_St_Louis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Torso",
+      "artist": "Exhumed",
+      "has_synced": false,
+      "path": "select/11_Torso_Exhumed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Torso Has Been Severed in Mid Thorax",
+      "artist": "Meet Me in St. Louis",
+      "has_synced": true,
+      "path": "select/12_The_Torso_Has_Been_Severed_in_Mid_Thorax_Meet_Me_in_St._Louis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Benicio del Torso",
+      "artist": "Mike Mictlan",
+      "has_synced": false,
+      "path": "select/13_Benicio_del_Torso_Mike_Mictlan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "torso",
+      "artist": "平葵",
+      "has_synced": false,
+      "path": "select/pl_01_torso_平葵.txt"
+    }
+  ]
+}
